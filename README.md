@@ -13,8 +13,8 @@ git clone https://github.com/R32fanboy/ubuntusetup.git
 
 cd ubuntusetup
 
-chmod +x setup.sh
+chmod +x setuproot.sh
 
-./setup.sh
+./setuproot.sh
 
 sit back as your packages are installed for you.
