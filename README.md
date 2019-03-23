@@ -4,10 +4,17 @@ The files in this repository are simple bash scripts used to get ubuntu set up w
 Installation instructions:
 This is assuming you have some flavor of Ubuntu. I use ubuntu budgie, hence the chromium removal lines. 
 1. Install Ubuntu and open terminal. 
+
 sudo su
+
 apt install git -y
+
 git clone https://github.com/R32fanboy/ubuntusetup.git
+
 cd ubuntusetup
+
 chmod +x setup.sh
+
 ./setup.sh
+
 sit back as your packages are installed for you.
