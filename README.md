@@ -3,7 +3,7 @@ The files in this repository are simple bash scripts used to get ubuntu set up w
 
 Installation instructions:
 This is assuming you have some flavor of Ubuntu. I use Ubuntu Budgie, hence the Chromium removal lines. 
-1. Install Ubuntu and open terminal. 
+1. Install Ubuntu and open terminal. Type the following commands:
 
 sudo su
 
